@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\bin\Debug\net8.0\ultimascompras.exe
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\bin\Debug\net8.0\ultimascompras.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\bin\Debug\net8.0\ultimascompras.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\bin\Debug\net8.0\ultimascompras.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\bin\Debug\net8.0\ultimascompras.pdb
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\refint\ultimascompras.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.pdb
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ultimascompras.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\ultimascompras\ultimascompras\obj\Debug\net8.0\ref\ultimascompras.dll

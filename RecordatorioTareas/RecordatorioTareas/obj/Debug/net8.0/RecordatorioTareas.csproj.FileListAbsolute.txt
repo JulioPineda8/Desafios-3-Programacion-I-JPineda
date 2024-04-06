@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\bin\Debug\net8.0\RecordatorioTareas.exe
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\bin\Debug\net8.0\RecordatorioTareas.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\bin\Debug\net8.0\RecordatorioTareas.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\bin\Debug\net8.0\RecordatorioTareas.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\bin\Debug\net8.0\RecordatorioTareas.pdb
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\refint\RecordatorioTareas.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.pdb
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\RecordatorioTareas.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\RecordatorioTareas\RecordatorioTareas\obj\Debug\net8.0\ref\RecordatorioTareas.dll

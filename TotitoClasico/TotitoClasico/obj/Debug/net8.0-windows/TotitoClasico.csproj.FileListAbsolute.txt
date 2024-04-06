@@ -1,0 +1,16 @@
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\bin\Debug\net8.0-windows\TotitoClasico.exe
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\bin\Debug\net8.0-windows\TotitoClasico.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\bin\Debug\net8.0-windows\TotitoClasico.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\bin\Debug\net8.0-windows\TotitoClasico.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\bin\Debug\net8.0-windows\TotitoClasico.pdb
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.Form1.resources
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.csproj.GenerateResource.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\refint\TotitoClasico.dll
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.pdb
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\TotitoClasico.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Desafios de Arreglos Programación I\TotitoClasico\TotitoClasico\obj\Debug\net8.0-windows\ref\TotitoClasico.dll
